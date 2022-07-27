@@ -1,0 +1,1 @@
+document.write("simple script write something!")
